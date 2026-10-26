@@ -67,12 +67,12 @@ gimp-3-img-grid/
 ├── samples/  — pre-rendered example output collages (`3by12.png`, `5by1.png`) showing the grid layouts the script produces.
 │   ├── 3by12.png
 │   └── 5by1.png
+├── AGENTS.md
 ├── ARCH.md
 ├── batch_collage_gimp_3.0.py  — the sole script of the repo: collects images from a folder, measures their dimensions, and builds a layered grid collage inside a new GIMP 3.0 image.
-├── CLAUDE.md
 ├── LICENSE  — project license file.
 └── README.md  — user-facing documentation covering features, configuration constants, usage steps, and a visual explanation of the grid layout.
 ```
 
-_Generated 2026-07-23 10:00 UTC · 46 files · 4 directories._
+_Generated 2026-10-26 16:54 UTC · 46 files · 4 directories._
 <!-- ARCH:TREE:END -->
